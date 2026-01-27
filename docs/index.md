@@ -21,9 +21,9 @@ This is an example of how you can structure your documentation, including ways o
 
 ## About me
 
-![](./images/IZESA_Jabo.jpg){ width=200 align=right }
+![](./images/IZESA_Jabo.jpg){ width=100 align=right }
 
-_you can introduce yourself in many ways! audio, images, video.._
+
 
 Hi! I am IZESA JABO Epiphane. I am a postgraduate candidate at Universisty of Rwanda, College of Science and Technology, African Center Of Excellency in Internet of Things. My specialisation is in Embedded computing Systems
 
