@@ -31,6 +31,7 @@ The following image shows the picture of the L-Shaped Mounting Bracket model des
 
 ## Activity 2: Press-Fit Box Panel (2D Vector) model design
 As learners we are required to recognize the A flat rectangular panel, Rectangular slots cut into the edges, Slots sized to match material thickness and also the Entirely 2D vector geometry. these all task must be completed in Inkscape software which very suitable to this manuals.
+The following image illustrate the work done through Inkscape app for the 2D vector model design for the press-Fit Box.
 
 ![](./images/Day_2.jpg){ width=300 Height=200 align=right }
 
