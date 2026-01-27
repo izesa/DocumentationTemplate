@@ -4,19 +4,7 @@ glightbox: false
 
 # My documentation
 
-This is an example of participant's documentation for the Fabricademy program.
-
-You can edit it on [Github](http://github.com/R-INYURU). The software used turns simple text files written in [Markdown](https://en.wikipedia.org/wiki/Markdown) format, into the site you are navigating.
-
-Each time you change a page using the Gitlab interface, the site is rebuilt and all the changes published
-in few minutes.
-
-If this is your site, go on and edit this page clicking the Gitlab link on the upper right, changing the text below and deleting this.
-
-No worries, you can't break anything, all the changes you make are saved under [Version Control](https://en.wikipedia.org/wiki/Version_control) using [GIT](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). This means that you have all the different versions of your page saved and available all the time in the Gitlab interface.
-
 This is considered as the documentation of my entire activity during this Lesson known as " Fabrication and Modeling Techniques" where it illustrate different/various techniques of designing embedded systems and also packaging. from this documentation, there will be different Lab activities which showes how a devices is designed,modified, put-to life and printed for physical observation and use.
-
 
 
 ## About me
