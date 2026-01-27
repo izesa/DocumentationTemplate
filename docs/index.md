@@ -15,7 +15,7 @@ If this is your site, go on and edit this page clicking the Gitlab link on the u
 
 No worries, you can't break anything, all the changes you make are saved under [Version Control](https://en.wikipedia.org/wiki/Version_control) using [GIT](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control). This means that you have all the different versions of your page saved and available all the time in the Gitlab interface.
 
-This is an example of how you can structure your documentation, including ways of adding images, videos, tables e.t.c. Once you start editing make sure that you delete the examples and you make this page yours.
+This is considered as the documentation of my entire activity during this Lesson known as " Fabrication and Modeling Techniques" where it illustrate different/various techniques of designing embedded systems and also packaging. from this documentation, there will be different Lab activities which showes how a devices is designed,modified, put-to life and printed for physical observation and use.
 
 
 
