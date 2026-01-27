@@ -25,7 +25,7 @@ This is an example of how you can structure your documentation, including ways o
 
 _you can introduce yourself in many ways! audio, images, video.._
 
-Hi! I am IZESA JABO Epiphane. I am an art director & graphic designer based in New York City working on branding, visual identities, editorial design and web design.
+Hi! I am IZESA JABO Epiphane. I am a postgraduate candidate at Universisty of Rwanda, College of Science and Technology, African Center Of Excellency in Internet of Things. My specialisation is in Embedded computing Systems
 
 _the image above has a prefixed width and is aligned on the right side_
 
