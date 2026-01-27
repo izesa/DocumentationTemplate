@@ -25,11 +25,14 @@ appeal, to guarantee successful physical output.
 
 ## Activity 1: Designing L-shaped wall hook (3D) using FreeCad application.
 the activity is to design the model for being able to print it. using FreeCad app, the selected model is first designed in 2 dimension and then the resulted shape is modified with in 3D space.
+The following image shows the picture of the L-Shaped Mounting Bracket model designed using FreeCAD application.
 
 ![](./images/FreeCAD_2.jpg){ width=300 Height=200 align=right }
 
+## Activity 2: Press-Fit Box Panel (2D Vector) model design
+As learners we are required to recognize the A flat rectangular panel, Rectangular slots cut into the edges, Slots sized to match material thickness and also the Entirely 2D vector geometry. these all task must be completed in Inkscape software which very suitable to this manuals.
 
-
+![](./images/Day_2.jpg){ width=300 Height=200 align=right }
 
 
 * Download reference
