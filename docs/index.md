@@ -36,7 +36,7 @@ _below an example from the documentation of both [Sara Alvarez](https://class.te
 
 ## My background
 
-I was born in a nice city called..
+I was born in a Rwanda , raised in rwanda, grow up in Huye city a small town in southern province which was full of academic motivation at that time, every children was motivated to study.
 
 <!-- This below clears both sides under "aligned" images - see two images above.
 Can also be used just as "clear: right;" rather than "clear: both;", if you are using an image on the right, for example.
