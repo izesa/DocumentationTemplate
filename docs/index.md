@@ -9,7 +9,7 @@ This is considered as the documentation of my entire activity during this Lesson
 
 ## About me
 
-![](./images/IZESA_Jabo.jpg){ width=100 align=right }
+![](./images/IZESA_Jabo.JPG){ width=100 align=right }
 
 
 
