@@ -26,7 +26,7 @@ appeal, to guarantee successful physical output.
 ## Activity 1: Designing L-shaped wall hook (3D) using FreeCad application.
 the activity is to design the model for being able to print it. using FreeCad app, the selected model is first designed in 2 dimension and then the resulted shape is modified with in 3D space.
 
-![](./Daily-Activity/FreeCad.jpg){ width=100 align=right }
+![](./files/FreeCad.jpg){ width=200 Height=200 align=right }
 
 
 
