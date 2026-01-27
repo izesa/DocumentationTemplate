@@ -27,11 +27,6 @@ This is an example of how you can structure your documentation, including ways o
 
 Hi! I am IZESA JABO Epiphane. I am a postgraduate candidate at Universisty of Rwanda, College of Science and Technology, African Center Of Excellency in Internet of Things. My specialisation is in Embedded computing Systems
 
-_the image above has a prefixed width and is aligned on the right side_
-
-
-_below an example from the documentation of both [Sara Alvarez](https://class.textile-academy.org/2021/sara.alvarez/) TextileLab Amsterdam 2020-21 and [Diane Wakim](https://class.textile-academy.org/2021/diane.wakim/) Le TextileLab Lyon_
-
 
 
 ## My background
