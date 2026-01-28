@@ -9,9 +9,26 @@ create. They dictate durability, functionality, and even sustainability. The cho
 1. They describe the durability of the designed object.
 2. have a clear understanding of how the formation and cost efficiency must match.
 
-## References & Inspiration
+## 3. Material Properties & Selection
+Material selection also is one of the key aspect of modeling and fabrication techniques which reduces the cost failure occurs in the designing process.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+1. Key Material Properties
+• Strength & Flexibility
+• Density
+• Thermal & Electrical Behavior
+
+2. Selection Depends On
+• Intended Function
+• Fabrication Method
+• Environment of Use
+
+3. Strategic Approach
+Choose materials based on performance requirements, not just aesthetic
+appeal.
+
+## 4. Conclusion
+Materials and Fabrication Methods Aspect aims to understand first of all the material to be used for example like the texture of a PCB board materials before drilling and designing circuit onit, to understand what makes materials that are used for 3D printing, how thickness and reliable they are. All these information gathered together for facilitating the Fabrication process of the those materials. 
+
 
 
 * Download reference
