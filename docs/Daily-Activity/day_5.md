@@ -1,4 +1,4 @@
-# 5. Activity of Day 5
+# 5. Activity of Day 5: Digital Fabrication: Laser Cutting
 
 ## Research
 
