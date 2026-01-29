@@ -1,12 +1,24 @@
 # 5. Activity of Day 5: Digital Fabrication: Laser Cutting
 
-## Research
+## 1. Introduction 
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+CNC and Laser Cutting is a task considered as shaping the material that have designed through softwares. Lase cutting is one of the Digital Fabrication task that is implemented for shaping the devices through the presicions.
 
-## References & Inspiration
+## 2. Key apects for considerations for CNC and Laser cutting method.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+1. Precision & Versatility 
+Laser cutting employs a high-powered,focused beam to precisely cut, engrave,or mark a wide array of materials
+
+2. Diverse Applications
+From delicate wood and robust acrylic to plastics, leather, and thin metals, laser technology offers broad material compatibility.
+
+## 3. Key Advantages
+Benefits include :
+1. unparalleled precision 
+2. remarkable speed
+3. consistent repeatability, making it ideal for various industries
+
+
 
 
 * Download reference
