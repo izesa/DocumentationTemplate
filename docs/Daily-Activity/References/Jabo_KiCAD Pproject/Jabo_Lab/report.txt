@@ -1,0 +1,5 @@
+Plotted to 'D:\ACEIoT Masters\Msc in IoT\MODELING AND FABRICATION TECHNIQUES\CIRCUITS DIAGRAM\F_Lab_Again\Fab_Lab_Again\Fab_Lab_Again-F_Cu.gbr'.
+Plotted to 'D:\ACEIoT Masters\Msc in IoT\MODELING AND FABRICATION TECHNIQUES\CIRCUITS DIAGRAM\F_Lab_Again\Fab_Lab_Again\Fab_Lab_Again-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\ACEIoT Masters\Msc in IoT\MODELING AND FABRICATION TECHNIQUES\CIRCUITS DIAGRAM\F_Lab_Again\Fab_Lab_Again\Fab_Lab_Again-job.gbrjob'.
+Info: Done.
+Info: Done.
