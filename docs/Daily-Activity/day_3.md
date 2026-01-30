@@ -23,9 +23,6 @@ After designing the schematic diagram through schematic editor and correcting an
 
 ## 3. Third Step: Ready to be Printable
 After Editing the PCB design made, it is now the step of printing that schema on PCB Cupper  material. where it cuts the same path ways shown in the design.
-## References & Inspiration
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 
 * Download reference
