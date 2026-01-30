@@ -29,5 +29,6 @@ After Editing the PCB design made, it is now the step of printing that schema on
 
 Links to reference files, PDF, booklets,
 [](./References/)
+[KiCad Project References](References/Jabo_KiCAD_Project/Jabo_Lab/index.md)
 
 
