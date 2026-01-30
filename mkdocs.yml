@@ -70,3 +70,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - meta
+nav:
+  - Home: index.md
+  - Daily Activity:
+      - Day 3: Daily-Activity/day_3.md
+  - References: References/index.md
