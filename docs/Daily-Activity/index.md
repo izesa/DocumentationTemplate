@@ -9,6 +9,6 @@ _Welcome, My name is [IZESA Jabo Epiphane](https://class.textile-academy.org/202
 
 ||||
 |---|---|---|
-|[![](../images/home/digital-fab.png){ width=175 } <br>Day 1 Activity](./day_1.md)|[![](./images/Day_2_Act.png){ width=175 } <br>Day 2 Activity](./day_2.md)|[![](./images/Day_3_Act.jpg){ height=200 } <br>Day 3 Activity](./day_3.md)|
+|[![](../images/home/digital-fab.png){ width=175 } <br>Day 1 Activity](./day_1.md)|[![](./images/Day_2_Act.png){ width=175 } <br>Day 2 Activity](./day_2.md)|[![](./images/Day_3_Act.jpg){ Width=175 height=200 } <br>Day 3 Activity](./day_3.md)|
 |[![](./images/Day_4_Act.png){ width=175 } <br>Day 4 Activity](./day_4.md)|[![](../images/home/digital-fab.png){ width=175 } <br>Day 5 Activity](./day_5.md)|
 
